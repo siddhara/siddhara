@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siddhara
-- 👀 I’m interested in learning new stuff. 
+- 👀 I’m interested in learning DevOps these days. 
 - 🌱 I’m currently learning Frontend Angular, Reactjs, Nextjs, and Backend Nodejs with MongoDB and DevOps
 - 💞️ I’m looking to collaborate on Nodejs projects
 - 📫 you can reach out to me, my github username @siddhara
