@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @siddhara
-- 👀 I’m interested in ...
+- 👀 I’m interested in learning new stuff. 
 - 🌱 I’m currently learning Frontend Angular, Reactjs, Nextjs, and Backend Nodejs with MongoDB and DevOps
 - 💞️ I’m looking to collaborate on Nodejs projects
-- 📫 How to reach me ...
+- 📫 you can reach out to me, my github username @siddhara
 
 <!---
 siddhara/siddhara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
